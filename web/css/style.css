@@ -1,0 +1,36 @@
+.custom-topbar {
+  background-color: #006951;
+}
+.custom-spinner {
+  color: #006951;
+}
+.custom-select {
+  height: 40px;
+  width: 100%;
+  background-color: #ffffff;
+  font-size: 1.2em;
+}
+option {
+  width: 95%;
+}
+.text-center {
+  text-align: center;
+}
+.loader {
+  margin-top: 50%;
+}
+.app-button.search-button {
+  background-color: #006951;
+  border-color: #006959;
+  color: #ffffff;
+  width: 90%;
+  border-radius: 5px;
+}
+.public-holiday {
+  color: green;
+  font-size: 1.2em;
+}
+.non-public-holiday {
+  color: red;
+  font-size: 1.2em;
+}

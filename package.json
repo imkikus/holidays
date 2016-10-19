@@ -1,0 +1,14 @@
+{
+  "name": "holidayslist",
+  "version": "1.0.0",
+  "description": "List of holidays for the list of available countries",
+  "main": "index.js",
+  "scripts": {
+    "start": "zerver web"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zerver": "^1.0.2"
+  }
+}
