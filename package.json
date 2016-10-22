@@ -4,7 +4,7 @@
   "description": "List of holidays for the list of available countries",
   "main": "index.js",
   "scripts": {
-    "start": "zerver web"
+    "start": "zerver --port=5100 web"
   },
   "author": "",
   "license": "ISC",
